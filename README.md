@@ -10,7 +10,6 @@ This is a Space Invaders style game made in Unity and C#
 ## Acknowledgment
 Based on the space shooter game made by Jonathan Weinberger
 ## Usage
-Designed for windows 10
-172 MB
+Designed for windows 10 uses 172 MB
 ## Project status:
 Ongoing.

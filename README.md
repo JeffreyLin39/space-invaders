@@ -12,4 +12,4 @@ Based on the space shooter game made by Jonathan Weinberger
 ## Usage
 Designed for windows 10 uses 172 MB
 ## Project status:
-Ongoing.
+Made this when I was bad, was fun but not working on it anymore.
